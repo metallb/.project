@@ -24,7 +24,7 @@ repositories:
 
 website: "https://metallb.universe.tf"
 
-artwork: "https://landscape.cncf.io/logos/metallb.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/metallb"
 
 adopters:
   path: "https://github.com/metallb/metallb/blob/main/ADOPTERS.md"
